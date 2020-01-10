@@ -18,7 +18,6 @@
         }
     ],
     "require": {
-        "php": "~7.1.3",
         "magento/module-catalog": "*",
         "magento/framework": "*",
         "magento/zendframework1": "*"
