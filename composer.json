@@ -19,8 +19,7 @@
     ],
     "require": {
         "magento/module-catalog": "*",
-        "magento/framework": "*",
-        "magento/zendframework1": "*"
+        "magento/framework": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8",
